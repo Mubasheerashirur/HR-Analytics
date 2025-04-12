@@ -29,4 +29,4 @@ To analyze employee attrition and workforce trends using Power BI, helping HR te
 - Laboratory Technicians showed the highest attrition among job roles.
 
 ## Conclusion 
-his HR Analytics Dashboard enabled a detailed view of employee attrition and workforce trends. The project strengthened my skills in data cleaning, dashboard design, and insight generation using Power BI. By identifying critical factors behind employee turnover, this project demonstrates how data-driven HR strategies can improve retention and support better workforce planning.
+The HR Analytics Dashboard provided valuable insights into workforce dynamics and attrition trends. It facilitated the identification of key factors contributing to employee turnover through effective data visualization. This project demonstrates proficiency in Power BI, data preprocessing, and business intelligence, contributing to informed decision-making and enhanced HR strategies.
