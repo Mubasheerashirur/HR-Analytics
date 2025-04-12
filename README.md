@@ -1,2 +1,3 @@
 # HR-Analytics Dashboard using(Power BI)
-developed an interactive HR Analytics Dashboard using Power BI to analyze workforce trends, focusing on employee attrition, salary distribution, and job roles. 
+## Project Objective 
+To analyze employee attrition and workforce trends using Power BI, helping HR teams identify key factors affecting turnover and improve retention strategies.
