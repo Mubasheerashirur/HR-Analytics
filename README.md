@@ -12,3 +12,6 @@ To analyze employee attrition and workforce trends using Power BI, helping HR te
 - What is the average age of employees?
 - What is the average salary across departments?
 - What is the average tenure of employees at the company?
+
+## Dashboard Interaction
+<a href="https://github.com/Mubasheerashirur/HR-Analytics/blob/main/Screenshot%20(144).png">View Dashboard</a>
